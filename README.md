@@ -5,6 +5,6 @@
 Latest Repositories
 
 ### Language and Tools
-![Flutter](https://img.shields.io/badge/-JavaScript-9E529A)
+![Flutter](https://img.shields.io/badge/-JavaScript-9E529A?style=for-the-badge&logo=appveyor)
 
 Follow
