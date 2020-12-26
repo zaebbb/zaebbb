@@ -1,4 +1,4 @@
-[![Header](./assets/logo.phg)](https://zaebbb.github.io/Zaeb-Official/index.html)
+[![Header](https://github.com/zaebbb/zaebbb/blob/main/assets/header.png?raw=true)](https://zaebbb.github.io/Zaeb-Official/index.html)
 
 About
 
