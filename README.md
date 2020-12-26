@@ -16,3 +16,8 @@ Latest Repositories
 
 ### Follow me
 ![Flutter](https://img.shields.io/badge/-VKontakte-002649?style=for-the-badge&logo=vk)
+![Flutter](https://img.shields.io/badge/-Instagram-002649?style=for-the-badge&logo=instagram)
+![Flutter](https://img.shields.io/badge/-Linkedin-002649?style=for-the-badge&logo=linkedin)
+![Flutter](https://img.shields.io/badge/-Telegram-002649?style=for-the-badge&logo=telegram)
+![Flutter](https://img.shields.io/badge/-Twitter-002649?style=for-the-badge&logo=twitter)
+![Flutter](https://img.shields.io/badge/-Facebook-002649?style=for-the-badge&logo=facobook)
