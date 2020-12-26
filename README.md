@@ -6,9 +6,9 @@ Latest Repositories
 
 ### Language and Tools
 ![Flutter](https://img.shields.io/badge/-JavaScript-009AC6?style=for-the-badge&logo=javascript)
-![Flutter](https://img.shields.io/badge/-HTML-009AC6?style=for-the-badge&logo=html)
-![Flutter](https://img.shields.io/badge/-CSS-009AC6?style=for-the-badge&logo=css)
-![Flutter](https://img.shields.io/badge/-Web-Design-009AC6?style=for-the-badge&logo=design)
-![Flutter](https://img.shields.io/badge/-Frontend Development-009AC6?style=for-the-badge&logo=bootstrap)
+![Flutter](https://img.shields.io/badge/-HTML-009AC6?style=for-the-badge&logo=HTML)
+![Flutter](https://img.shields.io/badge/-CSS-009AC6?style=for-the-badge&logo=CSS)
+![Flutter](https://img.shields.io/badge/-SQL-009AC6?style=for-the-badge&logo=mysql)
+![Flutter](https://img.shields.io/badge/-PHP-009AC6?style=for-the-badge&logo=PHP)
 
 Follow
