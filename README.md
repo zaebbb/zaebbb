@@ -14,4 +14,5 @@ Latest Repositories
 ![Flutter](https://img.shields.io/badge/-Bootstrap-002649?style=for-the-badge&logo=bootstrap)
 ![Flutter](https://img.shields.io/badge/-Wordpress-002649?style=for-the-badge&logo=wordpress)
 
-Follow
+### Follow me
+![Flutter](https://img.shields.io/badge/-VKontakte-002649?style=for-the-badge&logo=vk)
