@@ -20,4 +20,4 @@ Latest Repositories
 ![Flutter](https://img.shields.io/badge/-Linkedin-002649?style=for-the-badge&logo=linkedin)
 ![Flutter](https://img.shields.io/badge/-Telegram-002649?style=for-the-badge&logo=telegram)
 ![Flutter](https://img.shields.io/badge/-Twitter-002649?style=for-the-badge&logo=twitter)
-![Flutter](https://img.shields.io/badge/-Facebook-002649?style=for-the-badge&logo=facobook)
+![Flutter](https://img.shields.io/badge/-Facebook-002649?style=for-the-badge&logo=facebook)
