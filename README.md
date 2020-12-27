@@ -2,10 +2,6 @@
 
 ## I'm a Frontend Developer and Web Designer
 
-### Latest Repositories
-<!-- REPOSITORIES:START -->
-<!-- REPOSITORIES:START -->
-
 ### Language and Tools
 ![Flutter](https://img.shields.io/badge/-JavaScript-002649?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-HTML-002649?style=for-the-badge&logo=HTML)
@@ -23,3 +19,5 @@
 [![Flutter](https://img.shields.io/badge/-Telegram-002649?style=for-the-badge&logo=telegram)](https://t.me/vladimir_zaeb_official)
 [![Flutter](https://img.shields.io/badge/-Twitter-002649?style=for-the-badge&logo=twitter)](https://twitter.com/VladimirZaeb)
 [![Flutter](https://img.shields.io/badge/-Facebook-002649?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100058453693105)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaebbb&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
