@@ -20,4 +20,4 @@
 [![Flutter](https://img.shields.io/badge/-Twitter-002649?style=for-the-badge&logo=twitter)](https://twitter.com/VladimirZaeb)
 [![Flutter](https://img.shields.io/badge/-Facebook-002649?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100058453693105)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaebbb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaebbb&show_icons=true&theme=000000)](https://github.com/anuraghazra/github-readme-stats)
