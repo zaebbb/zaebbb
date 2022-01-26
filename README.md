@@ -23,3 +23,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaebbb&show_icons=true&theme=onedark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=002649)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact&theme=onedark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=002649)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/Zaeb_Proger"><img src="https://api.daily.dev/devcards/8c9fd29ad75c4fd2b2379fff49b56836.png?r=wq4" width="400" alt="Vladimir's Dev Card"/></a>
