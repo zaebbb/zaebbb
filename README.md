@@ -13,4 +13,4 @@
 
 <h3>Какими навыками я обладаю?</h3>
 
-![Articles](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Articles&logoColor=white)
+![Articles](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)
