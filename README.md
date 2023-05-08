@@ -11,8 +11,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8E+%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BA%D0%BE%D0%B4%D0%B0+%D0%BD%D0%B0++Frontend;%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8E+%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BA%D0%BE%D0%B4%D0%B0+%D0%BD%D0%B0++Backend;%D0%A3%D0%BC%D0%B5%D1%8E+%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%B4%D0%BB%D1%8F+FullStack+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9;%D0%9D%D0%BE+%D0%BF%D0%BE%D0%BC%D0%B8%D0%BC%D0%BE+%D1%8D%D1%82%D0%BE%D0%B3%D0%BE+%D1%8F+%D0%B5%D1%89%D0%B5+%D1%83%D0%BC%D0%B5%D1%8E+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C)](https://git.io/typing-svg)
 
-<h3>Какими навыками я обладаю?</h3>
+<h3>Какими навыками я обладаю во фронте?</h3>
+
+<h3>Какими навыками я обладаю во бэке?</h3>
+
+<h3>Какие базы данных я знаю?</h3>
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<h3>Мое участие на различных площадках</h3>
+
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Quora](https://img.shields.io/badge/Codewars-%23B92B27.svg?style=for-the-Codewars&logo=Codewars&logoColor=white)
+
+<h3>Что то еще из мира IT</h3>
 
 ![Articles](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
