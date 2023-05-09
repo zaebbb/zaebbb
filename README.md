@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=b5ea3079-aa5a-444f-8f13-bcb42991e226&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
