@@ -30,6 +30,7 @@
 <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
 
 <h2>Сервисы алгоритмических задач</h2>
+
 [![codewars](https://www.codewars.com/users/dev_proger/badges/large)](https://www.codewars.com/users/dev_proger)   
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladimirmihajlov0893&theme=dark)](https://github.com/vladimirmihajlov0893/leetcode-stats)
 
