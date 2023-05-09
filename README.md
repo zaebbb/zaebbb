@@ -29,6 +29,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!-- НАВЫКИ В КОНЦЕ!!! -->
 <h2>Навыки, как же без них</h2>
