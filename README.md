@@ -23,11 +23,11 @@
 
 <div>
   <!-- ВИДЖЕТ СЕССИЙ -->
-  <img width="100" align="top" src="https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400">
+  <img align="top" src="https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400">
   <!-- ВИДЖЕТ СЕССИЙ -->
   
   <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
-  <img width="100" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact">
   <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
 </div>
 
