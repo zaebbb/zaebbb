@@ -21,20 +21,15 @@
 <h2>Немного о цифрах</h2>
 <!-- ЗАГОЛОВОК -->
 
-<table>
-  <tr>
-    <td>
-      <!-- ВИДЖЕТ СЕССИЙ -->
-      [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400)](https://git.io/streak-stats)
-      <!-- ВИДЖЕТ СЕССИЙ -->
-    </td>
-    <td>
-      <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-      <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
-    </td>
-  </tr>
-</table>
+
+<!-- ВИДЖЕТ СЕССИЙ -->
+| [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+<!-- ВИДЖЕТ СЕССИЙ -->
+
+<!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+
 
 <h2>Сервисы алгоритмических задач</h2>
 
