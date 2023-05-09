@@ -40,6 +40,16 @@
 </div> 
 <!-- CODEWARS LEETCODE -->
 
+<!-- Метрика -->
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+<!-- Метрика -->
+
 <!-- НАВЫКИ В КОНЦЕ!!! -->
 <h2>Навыки, как же без них</h2>
 
