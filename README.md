@@ -21,6 +21,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=600)](https://git.io/streak-stats)
 <!-- ВИДЖЕТ СЕССИЙ -->
 
+<!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+
 
 <!-- НАВЫКИ В КОНЦЕ!!! -->
 <h2>Навыки, как же без них</h2>
