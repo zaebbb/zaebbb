@@ -29,8 +29,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@b5ea3079-aa5a-444f-8f13-bcb42991e226&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2>Сервисы алгоритмических задач</h2>
+[![codewars](https://www.codewars.com/users/dev_proger/badges/large)](https://www.codewars.com/users/dev_proger)   
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vladimirmihajlov0893&theme=dark)](https://github.com/vladimirmihajlov0893/leetcode-stats)
 
 
 <!-- НАВЫКИ В КОНЦЕ!!! -->
