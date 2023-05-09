@@ -21,18 +21,15 @@
 <h2>Немного о цифрах</h2>
 <!-- ЗАГОЛОВОК -->
 
-<!-- ВИДЖЕТ СЕССИЙ -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ВИДЖЕТ СЕССИЙ -->
-
-<img src="https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact">
-
-<!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
-
+<div>
+  <!-- ВИДЖЕТ СЕССИЙ -->
+  <img align="top" src="https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400">
+  <!-- ВИДЖЕТ СЕССИЙ -->
+  
+  <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact">
+  <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+</div>
 
 <!-- CODEWARS LEETCODE -->
 <h2>Сервисы алгоритмических задач</h2>
