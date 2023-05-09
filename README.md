@@ -24,14 +24,18 @@
 <table>
   <tr>
     <td>
+      
       <!-- ВИДЖЕТ СЕССИЙ -->
       [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400)](https://git.io/streak-stats)
       <!-- ВИДЖЕТ СЕССИЙ -->
+      
     </td>
     <td>
+      
       <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
+      
     </td>
   </tr>
 </table>
