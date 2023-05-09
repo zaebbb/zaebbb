@@ -131,3 +131,11 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <!-- НАВЫКИ В КОНЦЕ!!! -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaebbb&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaebbb&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaebbb&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaebbb&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaebbb&theme=react&utcOffset=8)
+
+
