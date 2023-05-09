@@ -21,10 +21,12 @@
 <h2>Немного о цифрах</h2>
 <!-- ЗАГОЛОВОК -->
 
-
-<!-- ВИДЖЕТ СЕССИЙ -->
+<div>
+  <!-- ВИДЖЕТ СЕССИЙ -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ВИДЖЕТ СЕССИЙ -->
+</div>
+
 
 <!-- ВИДЖЕТ ТОП ЯЗЫКОВ -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaebbb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
