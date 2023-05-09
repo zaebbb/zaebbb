@@ -25,7 +25,7 @@
   <tr>
     <td>
       <!-- ВИДЖЕТ СЕССИЙ -->
-      [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=600)](https://git.io/streak-stats)
+      [![GitHub Streak](https://streak-stats.demolab.com?user=zaebbb&theme=dark&hide_border=true&locale=ru&card_width=400)](https://git.io/streak-stats)
       <!-- ВИДЖЕТ СЕССИЙ -->
     </td>
     <td>
